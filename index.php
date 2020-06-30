@@ -35,6 +35,8 @@ include_once("main.class.php");
 
 <body class="body">
 
+	<!-- Index page -->
+
 	<!-- header -->
 	<?php include_once("header.php"); ?>
 	<!-- end header -->
